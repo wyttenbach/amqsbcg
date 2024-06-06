@@ -1,0 +1,4 @@
+#!/bin/bash
+QUEUE_NAME=SYSTEM.MANAGED.DURABLE.66479F362094C401
+QUEUE_MANAGER=vrm.queue.manager
+TEMP_FILE="mq_messages.tmp"
